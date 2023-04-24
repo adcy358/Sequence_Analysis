@@ -6,5 +6,5 @@
 Text generation using Vanilla LSTM. 
 
 ### Dataset: 
-[https://www.kaggle.com/datasets/biancaferreira/african-wildlife](https://www.kaggle.com/datasets/cuddlefish/fairy-tales)
+[https://www.kaggle.com/datasets/cuddlefish/fairy-tales]
 - vocab: 3028 words
